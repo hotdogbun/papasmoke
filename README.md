@@ -1,2 +1,0 @@
-# papasmoke
-jeepers
